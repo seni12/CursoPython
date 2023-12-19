@@ -1,0 +1,9 @@
+git init
+git status
+git add .
+git status
+git commit -m "agrege el archivo prueba"
+git status
+git push
+"si es la primera vez saldra error
+git push --set-upstream origin master
