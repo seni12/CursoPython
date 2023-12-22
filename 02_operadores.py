@@ -25,4 +25,4 @@ print(3 != 4)
 
 print (3 > 4 and 8 > 4)
 print (3 > 4 or 8 > 4)
-print (not(3 > 4) )
+print (not(3 > 4) ) #nos dice si la condicion es mentira nos devuelve verdadero
