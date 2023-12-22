@@ -1,5 +1,4 @@
 git init
-git status
 git add .
 git status
 git commit -m "agrege el archivo prueba"
@@ -10,3 +9,6 @@ git push --set-upstream origin master
 
 abrir repositorio o colonar o algo asi si esta en otra ruta hay que poner esta linea de comando
 git config --global --add safe.directory '//servidor/oficina/INES/CursoPython/CursoPython'
+
+
+p
